@@ -6,11 +6,7 @@ The sensor used for this application is the [BME280](https://cdn-shop.adafruit.c
 
 For remote debugging of python scripts that access the GPIO pins, refer to [Remote Debug GPIO on Raspberry Pi](https://nathanpjones.com/2016/02/remote-debug-gpio-on-raspberry-pi/).
 
-## Dependencies
-Install python3-rpi.gpio
-```bash
-sudo apt-get install python-rpi.gpio python3-rpi.gpio
-```
+
 ## Sensor Wiring
 The connections for the sensor and the Raspberry Pi are given in the schematic below.
 
