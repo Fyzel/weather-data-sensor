@@ -1,3 +1,4 @@
+
 # weather-data-sensor
 This is a command line utility to read humidity, pressure, and temperature readings. The readings are written to a [Mosquitto Queue with submission daemon](https://github.com/Fyzel/weather-data-daemon) that submits to a  [RESTful web service](https://github.com/Fyzel/weather-data-api).
 
@@ -5,6 +6,11 @@ The sensor used for this application is the [BME280](https://cdn-shop.adafruit.c
 
 For remote debugging of python scripts that access the GPIO pins, refer to [Remote Debug GPIO on Raspberry Pi](https://nathanpjones.com/2016/02/remote-debug-gpio-on-raspberry-pi/).
 
+## Dependencies
+Install python3-rpi.gpio
+```bash
+sudo apt-get install python-rpi.gpio python3-rpi.gpio
+```
 ## Sensor Wiring
 The connections for the sensor and the Raspberry Pi are given in the schematic below.
 
