@@ -2,7 +2,7 @@ Adafruit-Blinka==4.4.0
 adafruit-circuitpython-bme280==2.4.1
 adafruit-circuitpython-busdevice==4.3.1
 Adafruit-GPIO==1.0.3
-Adafruit-PureIO==1.1.1
+Adafruit-PureIO==1.1.4
 paho-mqtt==1.5.0
 pkg-resources==0.0.0
 rpi-ws281x==4.2.3
