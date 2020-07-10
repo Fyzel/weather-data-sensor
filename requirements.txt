@@ -1,5 +1,5 @@
 Adafruit-Blinka==5.2.0
-adafruit-circuitpython-bme280==2.4.2
+adafruit-circuitpython-bme280==2.4.3
 adafruit-circuitpython-busdevice==4.3.2
 Adafruit-GPIO==1.0.3
 Adafruit-PureIO==1.1.5
