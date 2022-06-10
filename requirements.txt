@@ -1,6 +1,6 @@
 Adafruit-Blinka==7.0.0
 adafruit-circuitpython-busdevice==5.1.7
-adafruit-circuitpython-bme280==2.6.10
+adafruit-circuitpython-bme280==2.6.13
 Adafruit-GPIO==1.0.3
 Adafruit-PureIO==1.1.9
 paho-mqtt==1.6.1
