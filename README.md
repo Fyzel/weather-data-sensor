@@ -10,7 +10,7 @@ For remote debugging of python scripts that access the GPIO pins, refer to [Remo
 ## Sensor Wiring
 The connections for the sensor and the Raspberry Pi are given in the schematic below.
 
-![Wiring Schematic](https://github.com/Fyzel/weather-data-sensor/blob/master/images/schematic.png?raw=true)
+![Wiring Schematic](/docs/assets/images/schematic.png)
 
 
 ## Configuration
