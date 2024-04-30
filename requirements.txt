@@ -3,7 +3,7 @@ adafruit-circuitpython-busdevice==5.2.6
 adafruit-circuitpython-bme280==2.6.24
 Adafruit-GPIO==1.0.3
 Adafruit-PureIO==1.1.11
-paho-mqtt==2.0.0
+paho-mqtt==2.1.0
 pkg-resources==0.0.0
 rpi-ws281x==5.0.0
 RPi.GPIO==0.7.1
